@@ -19,7 +19,7 @@ export default function About() {
               polish of an agency without the upfront cost or the waiting. When
               you outgrow a plan, you move up the ladder; nothing gets rebuilt.
             </p>
-            <a href="/examples" className="link-arrow reveal">
+            <a href="#examples" className="link-arrow reveal">
               View live examples
               <svg
                 width="18"

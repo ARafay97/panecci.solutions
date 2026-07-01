@@ -1,16 +1,16 @@
 import type { Metadata } from "next";
-import { Space_Grotesk, Inter } from "next/font/google";
+import { Nunito } from "next/font/google";
 import SmoothScroll from "@/components/SmoothScroll";
 import "./globals.css";
 
-const display = Space_Grotesk({
+const display = Nunito({
   subsets: ["latin"],
-  weight: ["400", "500", "600", "700"],
+  weight: ["600", "700", "800"],
   variable: "--font-d",
   display: "swap",
 });
 
-const body = Inter({
+const body = Nunito({
   subsets: ["latin"],
   weight: ["400", "500", "600"],
   variable: "--font-b",
