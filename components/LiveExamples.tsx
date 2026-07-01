@@ -14,8 +14,8 @@ const examples = [
     name: "MyBagh",
     url: "https://www.mybagh.co.uk",
     domain: "mybagh.co.uk",
-    desc: "Premium gardening and landscaping services — designed to convert visitors into booked appointments.",
-    industry: "Home & Garden",
+    desc: "Premium, Luxury Cafe & Restaurant — designed to convert visitors into loyal customers.",
+    industry: "Food & Dining",
   },
   {
     id: "panecci",
@@ -23,8 +23,8 @@ const examples = [
     name: "Panecci",
     url: "https://www.panecci.com",
     domain: "panecci.com",
-    desc: "Artisan pizza restaurant with an online presence built to drive footfall and delivery orders.",
-    industry: "Food & Dining",
+    desc: "A Y2K Inspired Clothing Store — designed to convert visitors into loyal customers.",
+    industry: "Fashion",
   },
 ];
 
